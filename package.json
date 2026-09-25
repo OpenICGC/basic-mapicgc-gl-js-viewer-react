@@ -1,6 +1,6 @@
 {
   "name": "basic-mapicgc-gl-js-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "mapicgc-gl-js": "^0.0.96",
+    "mapicgc-gl-js": "^1.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -21,6 +21,8 @@
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.3.4",
-    "vite": "^4.3.9"
+    "vite": "^8.0.16"
   }
 }
+
+
